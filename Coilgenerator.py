@@ -1,4 +1,7 @@
 # -*- coding: utf-8 -*-
+# By Martin Gyurkó (2020.05.31.) nospam@gyurma.de
+# use at your own risk under GNU GENERAL PUBLIC LICENSE!
+
 
 Netz = 31
 Layer1 = "F.Cu"
